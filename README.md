@@ -21,7 +21,7 @@
 📊 GitHub Stats
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=spikovich&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=spikovich&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spikovich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
