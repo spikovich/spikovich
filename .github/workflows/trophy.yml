@@ -34,7 +34,7 @@ jobs:
                 Please re-run the workflow later
               </text>
             </svg>
-            SVG
+          SVG
           fi
 
       - name: push trophy.svg to the output branch
