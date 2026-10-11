@@ -1,0 +1,9 @@
+  <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" role="img" aria-label="Profile trophy unavailable">
+    <rect width="495" height="195" fill="#282A36"/>
+    <text x="50%" y="45%" fill="#f8f8f2" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+      Trophy generation unavailable
+    </text>
+    <text x="50%" y="62%" fill="#bd93f9" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+      Please re-run the workflow later
+    </text>
+  </svg>
